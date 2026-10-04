@@ -3,5 +3,7 @@
   "apps_mods": {},
   "apps_sysmodules": {},
   "apps_instaladores": {},
-  "apps_sistema": {}
+  "apps_sistema": {
+    "TEST APP": "https://github.com/stx-hue/STX-APPS/releases/latest/download/test.nro"
+  }
 }
